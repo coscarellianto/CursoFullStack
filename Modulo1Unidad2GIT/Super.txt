@@ -10,3 +10,5 @@ Peras\
 Manzana\
 Kiwi
 Banana
+Medialunas
+Pizza
