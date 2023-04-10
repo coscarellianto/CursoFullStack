@@ -1,0 +1,39 @@
+/* 
+font-family: 'Indie Flower', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+
+.destacados {
+    /*background-color: aquamarine;*/
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+    padding: 40px;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(217, 177, 209, 1) 30%, rgba(205, 168, 247, 1) 68%, rgba(148, 187, 233, 1) 100%);
+    box-shadow: 12px -15px 79px 46px rgba(255,192,192,0.34);
+    border-radius: 30px;
+    border: 5px solid pink;
+}
+
+h2{
+    text-shadow: -2px 2px 15px rgba(251,184,184,1);
+    color: black 
+}
+
+div{
+    background-color: pink;
+    column-count: 4;
+    column-gap: 70px;
+    column-rule: 5px solid whitesmoke;
+}
+
+div p{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+}
