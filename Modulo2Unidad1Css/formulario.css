@@ -1,0 +1,39 @@
+/*
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Questrial', sans-serif;
+*/
+
+h1{
+    color: #EDBB99;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+}
+
+#caja{
+    /*background-color: #FBEEE6;*/
+    width: 400px;  
+    height: 300px;
+    border: 10px solid #FAE5D3;
+    padding: 10px;
+    margin: 3px;
+    box-sizing: border-box;
+    background: rgb(250, 229, 211);
+    background: linear-gradient(0deg, rgba(250, 229, 211, 1) 10%, rgba(227, 240, 240, 1) 31%, rgba(227, 240, 240, 1) 68%, rgba(250, 229, 211, 1) 90%);
+    box-shadow: 7px -9px 46px 26px rgba(255, 215, 177, 0.6) inset;
+    -webkit-box-shadow: 7px -9px 46px 26px rgba(255, 215, 177, 0.6) inset;
+    -moz-box-shadow: 7px -9px 46px 26px rgba(255, 215, 177, 0.6) inset;
+    border-radius: 10px;
+    border: 5px solid #FBEEE6;
+    font-family: 'Questrial', sans-serif;
+}
+

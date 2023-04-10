@@ -1,0 +1,61 @@
+/*
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Questrial', sans-serif;
+*/
+
+h1 {
+    color: #EDBB99;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Cinzel Decorative', cursive;
+    text-shadow: -10px 1px 35px rgba(248, 143, 43, 0.6);
+}
+
+h2 {
+    color: #EDBB99;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+}
+
+p {
+    line-height: 20px;
+    color: black;
+}
+
+#caja {
+    /*background-color: #FBEEE6;*/
+    width: 860px;
+    border: 10px solid #FAE5D3;
+    padding: 20px;
+    box-sizing: border-box;
+    background: rgb(250, 229, 211);
+    background: linear-gradient(0deg, rgba(250, 229, 211, 1) 10%, rgba(227, 240, 240, 1) 31%, rgba(227, 240, 240, 1) 68%, rgba(250, 229, 211, 1) 90%);
+    box-shadow: 7px -9px 46px 26px rgba(255, 215, 177, 0.6) inset;
+    -webkit-box-shadow: 7px -9px 46px 26px rgba(255, 215, 177, 0.6) inset;
+    -moz-box-shadow: 7px -9px 46px 26px rgba(255, 215, 177, 0.6) inset;
+    border-radius: 10px;
+    border: 5px solid #FBEEE6;
+}
+
+
+.destacados {
+    color: black;
+    font-weight: lighter;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    column-count: 2;
+    column-gap: 70px;
+    column-rule: 2px solid #EDBB99;
+}
+
+img {
+    filter: grayscale(7%) sepia(12%) brightness(88%) saturate(173%) contrast(135%) invert(16%);
+    -webkit-filter: grayscale(7%) sepia(12%) brightness(88%) saturate(173%) contrast(135%) invert(16%);
+    -moz-filter: grayscale(7%) sepia(12%) brightness(88%) saturate(173%) contrast(135%) invert(16%);
+    border-radius: 10px;
+}
