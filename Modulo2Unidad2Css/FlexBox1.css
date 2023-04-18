@@ -1,0 +1,28 @@
+body {
+    background: rgb(208, 255, 250);
+    background: radial-gradient(circle, rgba(208, 255, 250, 1) 0%, rgba(230, 178, 211, 1) 100%);
+}
+
+h1 {
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contenedor {
+    background-color: #e6b2d3;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+}
+
+.item {
+    background-color: whitesmoke;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
