@@ -12,7 +12,7 @@ h1{
 .contenedor{
 	background-color: #efd7ff;
 	display: inline-flex;
-	position:relative;
+    position:relative;
     left: 480px;
 }
 
